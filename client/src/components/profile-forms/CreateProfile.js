@@ -160,7 +160,7 @@ const CreateProfile = ({
 				{displaySocialInputs && (
 					<Fragment>
 						<div className='form-group social-input'>
-							<i className='fab fa-twitter fa-2x' />
+							<i className='fa fa-twitter fa-2x' />
 							<input
 								type='text'
 								placeholder='Twitter URL'
@@ -171,7 +171,7 @@ const CreateProfile = ({
 						</div>
 
 						<div className='form-group social-input'>
-							<i className='fab fa-facebook fa-2x' />
+							<i className='fa fa-facebook fa-2x' />
 							<input
 								type='text'
 								placeholder='Facebook URL'
@@ -182,7 +182,7 @@ const CreateProfile = ({
 						</div>
 
 						<div className='form-group social-input'>
-							<i className='fab fa-youtube fa-2x' />
+							<i className='fa fa-youtube fa-2x' />
 							<input
 								type='text'
 								placeholder='YouTube URL'
@@ -193,7 +193,7 @@ const CreateProfile = ({
 						</div>
 
 						<div className='form-group social-input'>
-							<i className='fab fa-linkedin fa-2x' />
+							<i className='fa fa-linkedin fa-2x' />
 							<input
 								type='text'
 								placeholder='Linkedin URL'
@@ -204,7 +204,7 @@ const CreateProfile = ({
 						</div>
 
 						<div className='form-group social-input'>
-							<i className='fab fa-instagram fa-2x' />
+							<i className='fa fa-instagram fa-2x' />
 							<input
 								type='text'
 								placeholder='Instagram URL'
